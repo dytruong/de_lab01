@@ -18,4 +18,4 @@ Set-Content -NoNewline -Path ".env" -Value "AIRFLOW_UID=50000"
 docker-compose up airflow-init
 
 # Start up all services
-docker-compose up
+docker-compose up -d

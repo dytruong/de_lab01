@@ -1,6 +1,6 @@
 ## Setup Airflow
 ### Requirement
-Install Docker Desktop Windows
+Install Docker Desktop - https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe?utm_source=docker&utm_medium=webreferral&utm_campaign=dd-smartbutton&utm_location=module
 
 ### How to setup
 - Step 1: Run file init.ps1

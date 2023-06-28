@@ -1,3 +1,6 @@
 logs
 docker-compose.yml
 .env
+
+
+*.ini
